@@ -1,0 +1,32 @@
+{
+    "settings": {
+        "User_name":"FRT",
+        "Password": "discord.gg/frt",
+        "Random_Behind_User": true,
+        "Number_Random_Behind_Username": 4,
+        "Reg_acc_multiple": 5,
+        "Enable_proxy": false
+    },
+    "Random": {
+        "Random_pass": true,
+        "Number_Random_Pass": 10,
+        "Random_username": true,
+        "Number_Random_username": 8,
+        "Random_username_underscore": true
+
+    },
+    "Rbx_Acc_Manager": {
+        "Auto_Import_Cookie": true,
+        "Port": 7963,
+        "Host_Ip": "localhost"
+    },
+    "Webhook_Discord": {
+        "Auto_Webhook_Discord": false,
+        "Discord_Webhook": "https://discordapp.com/api/webhooks/00000000000000000000000000"
+    },
+
+    "Nopecha": {
+        "Auto_captcha": false,
+        "NopechaKey": "sub_1M8GlLCRwBwvt6ptaA6FN7sap"
+}
+}

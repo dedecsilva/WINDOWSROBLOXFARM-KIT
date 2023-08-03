@@ -1,0 +1,27 @@
+                                                           HƯỚNG DẪN SÀI REG ACCOUNT [CHROME AUTO SOLVE CAPTCHA]
+Product Owned by NotYummy#2903 / BinCuBu#9130
+
+Tải File regacc.rar về và giải nén ra 
+
+File config.json 
+User_name :  là user name roblox muốn tạo
+Password : là pass roblox
+Reg_acc_multiple : là số acc muốn reg trong 1 lần mở tool ví dụ để số 3 là nó mở 3 tab chrome lên reg sau khi xong 3 tab là nó mở tiếp 3 tab
+Random_pass : Tạo pass tự động ngẫu nhiên 12 chữ cái để true là bật tính năng false là nó sẽ sài password ở trên
+Enable_Proxy: để true là sài proxy [Beta] 
+Autocaptcha : Hỗ trợ https://nopecha.com/ --> web này có key free key paid thì 5$ 1 month
+
+File acc gen :
+Có 3 file acc.txt cookie.txt user-pass.txt đây 3 file chứa thông tin của acc vừa tạo
+
+File number.txt
+Đây là file số thứ tự acc mặc định để 0 và sẽ tăng dần sau khi tạo acc nếu acc bị lỗi thì cứ vô sửa lại số 0 và sửa lại user_name
+
+File proxy.txt
+là file chứa list proxy để sài reg luân phiên [không muốn sài proxy thì kệ nó và đừng bật enable_proxy]
+PROXY THEO DẠNG IP:PORT KHÔNG SÀI ĐƯỢC VERIFY AUTHEN PROXY
+---> Bật regacc.exe lên là xong
+
+LƯU Ý:
+
+Vui lòng không thay đổi tên của bất kì file nào

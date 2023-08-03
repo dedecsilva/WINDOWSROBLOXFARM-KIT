@@ -1,0 +1,36 @@
+2023-08-02 22:11:26,161 [1] ERROR Account Manager - An error occured launching an account from auto relaunch: Valor não pode ser nulo.
+Nome do parâmetro: request Trace:    em RestSharp.Ensure.NotNull[T](T value, String name)
+   em RestSharp.RestClientExtensions.ExecuteAsync(IRestClient client, RestRequest request, Method httpMethod, CancellationToken cancellationToken)
+   em RestSharp.RestClientExtensions.<PostAsync>d__17.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RBX_Alt_Manager.Classes.Presence.<UpdatePresence>d__2.MoveNext() na C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\Presence.cs:linha 28
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RBX_Alt_Manager.Forms.AccountControl.<AutoRelaunchTimer_Tick>d__47.MoveNext() na C:\dev\Roblox Account Manager\RBX Alt Manager\Nexus\AccountControl.cs:linha 495
+2023-08-02 22:11:45,725 [1] ERROR Account Manager - An error occured launching an account from auto relaunch: Valor não pode ser nulo.
+Nome do parâmetro: request Trace:    em RestSharp.Ensure.NotNull[T](T value, String name)
+   em RestSharp.RestClientExtensions.ExecuteAsync(IRestClient client, RestRequest request, Method httpMethod, CancellationToken cancellationToken)
+   em RestSharp.RestClientExtensions.<PostAsync>d__17.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RBX_Alt_Manager.Classes.Presence.<UpdatePresence>d__2.MoveNext() na C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\Presence.cs:linha 28
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RBX_Alt_Manager.Forms.AccountControl.<AutoRelaunchTimer_Tick>d__47.MoveNext() na C:\dev\Roblox Account Manager\RBX Alt Manager\Nexus\AccountControl.cs:linha 495
+2023-08-02 22:11:54,716 [1] ERROR Account Manager - An error occured launching an account from auto relaunch: Valor não pode ser nulo.
+Nome do parâmetro: request Trace:    em RestSharp.Ensure.NotNull[T](T value, String name)
+   em RestSharp.RestClientExtensions.ExecuteAsync(IRestClient client, RestRequest request, Method httpMethod, CancellationToken cancellationToken)
+   em RestSharp.RestClientExtensions.<PostAsync>d__17.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RBX_Alt_Manager.Classes.Presence.<UpdatePresence>d__2.MoveNext() na C:\dev\Roblox Account Manager\RBX Alt Manager\Classes\Presence.cs:linha 28
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em RBX_Alt_Manager.Forms.AccountControl.<AutoRelaunchTimer_Tick>d__47.MoveNext() na C:\dev\Roblox Account Manager\RBX Alt Manager\Nexus\AccountControl.cs:linha 495
